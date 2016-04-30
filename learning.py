@@ -192,5 +192,5 @@ if __name__ == '__main__':
     user.do_login()  # 登录E学
     user.get_course_list()  # 取得当前未学课程状态
     user.get_lesson()  # 取得一号课程详细列表
-    user.start_course()  # 开始刷第一课
+    user.start_course()  # 开始学第一课
     user.save_course()  # 保存进度
