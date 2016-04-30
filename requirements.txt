@@ -1,0 +1,5 @@
+arrow==0.7.0
+lxml==3.4.4
+pycrypto==2.6.1
+requests==2.9.1
+xmltodict==0.10.1
